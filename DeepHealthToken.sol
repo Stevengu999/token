@@ -176,7 +176,7 @@ contract StandardToken is ERC20, BasicToken {
 
 contract DeepHealthToken is StandardToken, Ownable {
     string public constant name           = "Deep Health Token";
-    string public constant symbol         = "DHL";
+    string public constant symbol         = "DHT";
     uint   public constant decimals       = 18;
     uint   public constant totalSupply    = 10 ** 28;
 
