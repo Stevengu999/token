@@ -1,1 +1,1 @@
-ERC20 of DHL token
+ERC20 of DHT token
